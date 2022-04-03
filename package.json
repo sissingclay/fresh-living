@@ -1,0 +1,26 @@
+{
+  "name": "fresh-living-repo",
+  "version": "1.0.0",
+  "description": "solid-octo-spoon",
+  "main": "index.js",
+  "scripts": {
+    "lerna:start": "scripty"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sissingclay/fresh-living.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sissingclay/fresh-living/issues"
+  },
+  "homepage": "https://github.com/sissingclay/fresh-living#readme",
+  "dependencies": {
+    "lerna": "^4.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.1",
+    "scripty": "^2.0.0"
+  }
+}
